@@ -1,5 +1,5 @@
 {
-   "versionCode":"1.0.0",
-   "Message":"New Application Update!!",
-   "url":"https://www.mediafire.com"
+   "versionCode":"1.0.1",
+   "Message":"New Application Update!! New Layout!!",
+   "url":"https://dropmb.com/HasAv"
 }
