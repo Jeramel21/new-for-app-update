@@ -1,5 +1,5 @@
 {
    "versionCode":"1.0.1",
-   "Message":"ang pogi ng update ko",
-   "url":"https://www.pornhub.com"
+   "Message":"New Application Update!!",
+   "url":"https://www.mediafire.com"
 }
