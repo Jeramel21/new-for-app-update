@@ -1,5 +1,5 @@
 {
    "versionCode":"1.0.1",
    "Message":"New Application Update!! New Layout!! ♥️",
-   "url":"https://www.mediafire.com/file/5a5sxy1w6ifqebu/Jad_VPN.apk/file"
+   "url":"https://www.mediafire.com/file/b7q5iwx1cemr2pk/Jad_VPN.apk/file"
 }
