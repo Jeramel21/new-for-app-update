@@ -1,5 +1,5 @@
 {
-   "versionCode":"0.0.0",
+   "versionCode":"",
    "Message":"New Application Update!! New Layout!! ♥️",
    "url":""
 }
